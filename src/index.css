@@ -96,6 +96,10 @@ header button {
 .Items li.in-cart span {
   text-decoration: line-through;
 }
+.Items li.in-cart button {
+  color: white;
+  background: var(--magenta);
+}
 
 .Items button.add {
   background-color: var(--yellow);
